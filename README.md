@@ -1,7 +1,5 @@
 # Modelatge dels patrons de moviment d'esportistes de futbol americà per a predir el tipus d'atac
 
-Treball de Final de Màster 2024-2025 de Lluís Coll Mas, amb el tutor Joaquín Torres-Sospedra i el PRA Ismael Benito Altamirano. 
-
 ## Crèdits
  * __Autor__: Lluís Coll Mas
  * __Tutor__: Joaquín Torres-Sospedra
