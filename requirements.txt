@@ -1,0 +1,11 @@
+dask==2025.4.0
+dotenv==0.9.9
+matplotlib==3.10.1
+numpy==2.2.4
+pandas==2.2.3
+plotly==6.0.1
+progressbar==2.5
+scikit-learn==1.6.1
+seaborn==0.13.2
+torch==2.7.0
+tqdm==4.67.1
