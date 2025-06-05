@@ -24,4 +24,4 @@ Aquest repositori està dividit en dues grans parts. Una amb arxius `python` enf
  
  En aquest repositori no s'inclouen les dades originals a causa del seu pes. Però s'han extret del següent concurs de Kaggle: [NFL Big Data Bowl 2025](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/data).
 
- Sí que s'han pogut incloure els arxius `.pt` finals amb què s'ha generat el model. 
+Els arxius `.pt` finals amb què s'ha generat el model tampoc s'han pogut pujar al repositori pel pes. Però sí són accessibles a través del Drive de la UOC en el següent enllaç: [Arxius `.pt` al Drive](https://drive.google.com/drive/folders/1m8bEdQTql4mjFxWP2goJPcC8qOHrWYSN?usp=sharing)
